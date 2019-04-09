@@ -11,7 +11,5 @@ $ source ml-handwritten-digit-recognition/bin/activate
 ```
 2. Install dependencies.
 ```
-$ pip install tensorflow
-$ pip install numpy
-$ pip install image
+$ pip install -r requirements.txt
 ```
